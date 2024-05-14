@@ -12,5 +12,7 @@ O objetivo desse projeto foi fazer várias páginas que se interligassem e direc
 
 ## Autor
 <b>Aline Kettylen Oliveira da Silva</b>
-<b>Camila Fernanda Lopes da Silva</b>
-<b>Suellayne Cordeiro da Silva<b>
+
+<b>Camila Fernanda</b>
+
+<b>Suellayne Silva<b>
